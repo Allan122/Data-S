@@ -114,4 +114,4 @@ Where we see what our code does.
 **Machine Learning**
 
 ### What is AI?
-**AI is a scientific concept to create intelligence in missions.**
+**AI is a scientific concept to create intelligence in machines.**
