@@ -115,3 +115,6 @@ Where we see what our code does.
 
 ### What is AI?
 **AI is a scientific concept to create intelligence in machines.**
+
+### Concept of AI
+Analytics and Data Science is something that we cannot ignore.
