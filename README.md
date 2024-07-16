@@ -70,4 +70,48 @@ It is what runs your code
 - **Console**
 Where we see what our code does.
 
+### What is Python?
+- Its a free source.
+- Its easy to learn.
+- It is an Open Source Language.
+- It has many Libraries.
+- Python is known for its simplicity.
+- It is portable. The code is transferable from one computer to another.
+- It is an embeddable and extensible language.
+- Python can be easily interpreted.
+- Huge set of libraries are used for data manipulation, data adjustment, data analysis, and data visualisation.
 
+
+### What is a Library?
+- Collection of codes
+- Collection of Programs
+- It makes our life easier efficient and effective.
+
+
+# Quiz
+##**Question 1:**
+### Which area of artificial intelligence involves analyzing images or videos in terms of pixel by pixel analysis?
+**Computer Vision**
+
+## Question 2:
+### What is the process of analyzing data with statistical techniques called?
+**Data Science**
+
+## Question 3:
+### What is the concept of AI primarily focused on?
+**Creating Intelligence in Machines**
+
+## Question 4:
+### What is the main idea behind Natural Language Processing (NLP)?
+**Analysing Natural Languages**
+
+## Question 5:
+### Which programming language is heavily utilized for developing models related to computer vision?
+**Java**
+
+## Question 6:
+### Which area of artificial intelligence involves deep learning and generative AI?
+**Machine Learning**
+
+### What is AI?
+**AI is a scientific concept to create intelligence in missions.**
