@@ -118,3 +118,10 @@ Where we see what our code does.
 
 ### Concept of AI
 Analytics and Data Science is something that we cannot ignore.
+
+### Connecting Data and Intelligence:
+Deriving insights with the help of analytics.
+
+### Data Science
+It is the process of analyzing data with the help of Statistical techniques.
+
