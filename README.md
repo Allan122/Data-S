@@ -63,10 +63,11 @@ Kill - To stop a program.
 It is a software tools that help you make programs.
 ### IDE - Integrated development environment
 It has 3 parts:
-**- Editor
+- **Editor**
 Where you write your code.
-- Interpreter
+- **Interpreter**
 It is what runs your code
-- Console
+- **Console**
 Where we see what our code does.
-**
+
+
