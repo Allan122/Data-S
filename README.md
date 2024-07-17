@@ -213,4 +213,8 @@ Python is licensed under the Open-Source License. And there are several implemen
 - Google Colab
 
 
+**C Python** - The most popular available in the Python Website. C Python is commonly used for web-development, Application Development and Scripting. Linux users can install Python.
+
+**Anaconda** - It is a free and open source distribution of the Python and R programming languages, primarily used for scientific computing in Data Science, Machine Learning, Large Scale Data Processing and predictive analytics.
+
 
