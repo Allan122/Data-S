@@ -193,14 +193,24 @@ Who created Python and in what year?
 - It's a core platform developed by Apache Spark, known for comprehensive big data processing and machine learning statistical algorithms.
 - Scala has an extensive library for machine learning, making it useful for developing, designing, and deploying Machine Learning Algorithms.
 
+
+# Modes
 **Interactive Mode**
 In this mode, Each command you type is interpreted and executed immediately, and you see the results each time you press enter. The interactive mode is the default mode if you don't pass a file name to the interpreter.
 
 **Script Mode** 
 In script mode, you put a set of Python statements into a text file with a .py extension. You then run the Python interpreter and point it at the file. The program is executed line by line and the output is displayed. There is no compilation step.
 
+**Python Implementations**
+Python is licensed under the Open-Source License. And there are several implementations available depending on your needs.
 
- 
+# **Some important IDE:**
+- C Python
+- Anaconda
+- Iron Python
+- Jupyter Notebook
+- Azure Cloud Shell
+- Google Colab
 
 
 
