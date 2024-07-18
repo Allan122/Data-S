@@ -213,8 +213,24 @@ Python is licensed under the Open-Source License. And there are several implemen
 - Google Colab
 
 
-**C Python** - The most popular available in the Python Website. C Python is commonly used for web-development, Application Development and Scripting. Linux users can install Python.
+**C Python** - The most popular available on the Python Website. C Python is commonly used for web development, Application Development, and Scripting. Linux users can install Python.
 
-**Anaconda** - It is a free and open source distribution of the Python and R programming languages, primarily used for scientific computing in Data Science, Machine Learning, Large Scale Data Processing and predictive analytics.
+**Anaconda** 
+- It is a free and open-source distribution of the Python and R programming languages, primarily used for scientific computing in Data Science, Machine Learning, Large Scale Data Processing, and predictive analytics. Anaconda uses Conda which is an open-source package and environment management system that runs on Windows, macOS, and Linux.
+- Anaconda equips individuals to easily search and install thousands of packages and access a vast library of community content and support.
 
+**Iron Python**
+- Iron Python is an open-source Python build on the .Net runtime.
+- Cross-platform: Iron Python is a cross-platform programming language supporting the .Net Core, .Net and Mono Runtime.
 
+**Jupyter Notebook**
+- It is a web-based interactive programming language that actually supports various programming languages, including Python.
+- Jupyter Notebooks are widely used in research and academia for mathematical modeling, machine learning, statistical analysis, and for teaching and learning how to code.
+
+**Azure Cloudshell**
+- Azure Cloud Shell is an interactive, authenticated, browser-accessible terminal for managing Azure resources.
+- It provides a shell experience that's updated and maintained by Microsoft.
+- It's a powerful tool for managing Azure resources without the overhead of installing and maintaining a machine yourself.
+
+Google Colab
+- Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources including GPUS and TPUS. 
