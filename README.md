@@ -232,5 +232,7 @@ Python is licensed under the Open-Source License. And there are several implemen
 - It provides a shell experience that's updated and maintained by Microsoft.
 - It's a powerful tool for managing Azure resources without the overhead of installing and maintaining a machine yourself.
 
-Google Colab
-- Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources including GPUS and TPUS. 
+**Google Colab**
+- Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources including GPUS and TPUS.
+- Colab is well suited for Machine Learning, Data Science, and Education.
+
