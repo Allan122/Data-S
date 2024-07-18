@@ -239,10 +239,38 @@ Python is licensed under the Open-Source License. And there are several implemen
 # Quiz 3
 ## Question 1:
 ### How can one access Google Colab for coding purposes?
-By logging in with a Gmail ID.
+**By logging in with Gmail.**
 
+## Question 2:
+### What is the primary purpose of creating new notebooks in Google Colab?
+**To write and run code.**
 
+## Question 3:
+### How can code snippets be executed in Google Colab?
+**By clicking a play button or using a shortcut.**
 
+## Question 4:
+### What is the file extension of a Python notebook used in Google Colab?
+**.iPynb.**
 
+## Question 5:
+### What does the text suggest is an important aspect of learning in Google Colab?
+**Understanding Python concepts through practice.**
+
+### What are the foundational blocks of Python?
+**Variables and Data Types.**
+
+# Python is an REPL Program (Read-Evaluate-Print-Loop)
+**Python supports an interactive console experience, which allows you to type in commands and see the results immediately.**
+
+### Declare Variables and Functions
+**You can also create variables and functions, and REPL will remember that they exist, should you try to use them later.**
+
+### Run and Evaluate Statements
+You can directly Add, Subtract, Multiply, etc
+
+### Use the built-in help 
+- **Getting help on a topic is useful.**
+- **The generalized syntax for this function is HELP(STR)**
 
 
