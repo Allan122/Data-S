@@ -236,3 +236,13 @@ Python is licensed under the Open-Source License. And there are several implemen
 - Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources including GPUS and TPUS.
 - Colab is well suited for Machine Learning, Data Science, and Education.
 
+# Quiz 3
+## Question 1:
+### How can one access Google Colab for coding purposes?
+By logging in with a Gmail ID.
+
+
+
+
+
+
